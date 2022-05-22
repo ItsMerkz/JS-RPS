@@ -31,7 +31,7 @@ function rps() {
         console.log("You Drew...")
     } else if(userinp === "Paper" && res === "Paper") {
         console.log("You Drew...")
-    } else{
+    } else {
         console.log("An Error Occured!")
     }
 }
